@@ -12,7 +12,7 @@
   "author": "William Schrader",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bootswatch": "^4.5.0",
     "concurrently": "^5.2.0",
     "cors": "^2.8.5",
